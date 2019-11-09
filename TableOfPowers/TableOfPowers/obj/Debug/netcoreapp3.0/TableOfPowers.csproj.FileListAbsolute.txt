@@ -1,0 +1,11 @@
+C:\repos\c-sharp_instruction\TableOfPowers\TableOfPowers\bin\Debug\netcoreapp3.0\TableOfPowers.exe
+C:\repos\c-sharp_instruction\TableOfPowers\TableOfPowers\bin\Debug\netcoreapp3.0\TableOfPowers.deps.json
+C:\repos\c-sharp_instruction\TableOfPowers\TableOfPowers\bin\Debug\netcoreapp3.0\TableOfPowers.runtimeconfig.json
+C:\repos\c-sharp_instruction\TableOfPowers\TableOfPowers\bin\Debug\netcoreapp3.0\TableOfPowers.runtimeconfig.dev.json
+C:\repos\c-sharp_instruction\TableOfPowers\TableOfPowers\bin\Debug\netcoreapp3.0\TableOfPowers.dll
+C:\repos\c-sharp_instruction\TableOfPowers\TableOfPowers\bin\Debug\netcoreapp3.0\TableOfPowers.pdb
+C:\repos\c-sharp_instruction\TableOfPowers\TableOfPowers\obj\Debug\netcoreapp3.0\TableOfPowers.csprojAssemblyReference.cache
+C:\repos\c-sharp_instruction\TableOfPowers\TableOfPowers\obj\Debug\netcoreapp3.0\TableOfPowers.AssemblyInfoInputs.cache
+C:\repos\c-sharp_instruction\TableOfPowers\TableOfPowers\obj\Debug\netcoreapp3.0\TableOfPowers.AssemblyInfo.cs
+C:\repos\c-sharp_instruction\TableOfPowers\TableOfPowers\obj\Debug\netcoreapp3.0\TableOfPowers.dll
+C:\repos\c-sharp_instruction\TableOfPowers\TableOfPowers\obj\Debug\netcoreapp3.0\TableOfPowers.pdb

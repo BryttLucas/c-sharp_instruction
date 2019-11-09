@@ -1,0 +1,11 @@
+C:\repos\c-sharp_instruction\ProductManger\ProductManger\bin\Debug\netcoreapp3.0\ProductManger.exe
+C:\repos\c-sharp_instruction\ProductManger\ProductManger\bin\Debug\netcoreapp3.0\ProductManger.deps.json
+C:\repos\c-sharp_instruction\ProductManger\ProductManger\bin\Debug\netcoreapp3.0\ProductManger.runtimeconfig.json
+C:\repos\c-sharp_instruction\ProductManger\ProductManger\bin\Debug\netcoreapp3.0\ProductManger.runtimeconfig.dev.json
+C:\repos\c-sharp_instruction\ProductManger\ProductManger\bin\Debug\netcoreapp3.0\ProductManger.dll
+C:\repos\c-sharp_instruction\ProductManger\ProductManger\bin\Debug\netcoreapp3.0\ProductManger.pdb
+C:\repos\c-sharp_instruction\ProductManger\ProductManger\obj\Debug\netcoreapp3.0\ProductManger.AssemblyInfoInputs.cache
+C:\repos\c-sharp_instruction\ProductManger\ProductManger\obj\Debug\netcoreapp3.0\ProductManger.AssemblyInfo.cs
+C:\repos\c-sharp_instruction\ProductManger\ProductManger\obj\Debug\netcoreapp3.0\ProductManger.dll
+C:\repos\c-sharp_instruction\ProductManger\ProductManger\obj\Debug\netcoreapp3.0\ProductManger.pdb
+C:\repos\c-sharp_instruction\ProductManger\ProductManger\obj\Debug\netcoreapp3.0\ProductManger.csprojAssemblyReference.cache

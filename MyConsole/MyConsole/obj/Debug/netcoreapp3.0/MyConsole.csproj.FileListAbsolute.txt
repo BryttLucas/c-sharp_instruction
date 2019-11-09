@@ -1,0 +1,3 @@
+C:\repos\c-sharp_instruction\MyConsole\MyConsole\obj\Debug\netcoreapp3.0\MyConsole.csprojAssemblyReference.cache
+C:\repos\c-sharp_instruction\MyConsole\MyConsole\obj\Debug\netcoreapp3.0\MyConsole.AssemblyInfoInputs.cache
+C:\repos\c-sharp_instruction\MyConsole\MyConsole\obj\Debug\netcoreapp3.0\MyConsole.AssemblyInfo.cs

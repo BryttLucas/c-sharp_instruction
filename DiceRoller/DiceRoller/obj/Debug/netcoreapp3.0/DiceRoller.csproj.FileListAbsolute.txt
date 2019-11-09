@@ -1,0 +1,11 @@
+C:\repos\c-sharp_instruction\DiceRoller\DiceRoller\bin\Debug\netcoreapp3.0\DiceRoller.exe
+C:\repos\c-sharp_instruction\DiceRoller\DiceRoller\bin\Debug\netcoreapp3.0\DiceRoller.deps.json
+C:\repos\c-sharp_instruction\DiceRoller\DiceRoller\bin\Debug\netcoreapp3.0\DiceRoller.runtimeconfig.json
+C:\repos\c-sharp_instruction\DiceRoller\DiceRoller\bin\Debug\netcoreapp3.0\DiceRoller.runtimeconfig.dev.json
+C:\repos\c-sharp_instruction\DiceRoller\DiceRoller\bin\Debug\netcoreapp3.0\DiceRoller.dll
+C:\repos\c-sharp_instruction\DiceRoller\DiceRoller\bin\Debug\netcoreapp3.0\DiceRoller.pdb
+C:\repos\c-sharp_instruction\DiceRoller\DiceRoller\obj\Debug\netcoreapp3.0\DiceRoller.csprojAssemblyReference.cache
+C:\repos\c-sharp_instruction\DiceRoller\DiceRoller\obj\Debug\netcoreapp3.0\DiceRoller.AssemblyInfoInputs.cache
+C:\repos\c-sharp_instruction\DiceRoller\DiceRoller\obj\Debug\netcoreapp3.0\DiceRoller.AssemblyInfo.cs
+C:\repos\c-sharp_instruction\DiceRoller\DiceRoller\obj\Debug\netcoreapp3.0\DiceRoller.dll
+C:\repos\c-sharp_instruction\DiceRoller\DiceRoller\obj\Debug\netcoreapp3.0\DiceRoller.pdb

@@ -1,0 +1,11 @@
+C:\repos\c-sharp_instruction\TemperatureConverter\TemperatureConverter\bin\Debug\netcoreapp3.0\TemperatureConverter.exe
+C:\repos\c-sharp_instruction\TemperatureConverter\TemperatureConverter\bin\Debug\netcoreapp3.0\TemperatureConverter.deps.json
+C:\repos\c-sharp_instruction\TemperatureConverter\TemperatureConverter\bin\Debug\netcoreapp3.0\TemperatureConverter.runtimeconfig.json
+C:\repos\c-sharp_instruction\TemperatureConverter\TemperatureConverter\bin\Debug\netcoreapp3.0\TemperatureConverter.runtimeconfig.dev.json
+C:\repos\c-sharp_instruction\TemperatureConverter\TemperatureConverter\bin\Debug\netcoreapp3.0\TemperatureConverter.dll
+C:\repos\c-sharp_instruction\TemperatureConverter\TemperatureConverter\bin\Debug\netcoreapp3.0\TemperatureConverter.pdb
+C:\repos\c-sharp_instruction\TemperatureConverter\TemperatureConverter\obj\Debug\netcoreapp3.0\TemperatureConverter.csprojAssemblyReference.cache
+C:\repos\c-sharp_instruction\TemperatureConverter\TemperatureConverter\obj\Debug\netcoreapp3.0\TemperatureConverter.AssemblyInfoInputs.cache
+C:\repos\c-sharp_instruction\TemperatureConverter\TemperatureConverter\obj\Debug\netcoreapp3.0\TemperatureConverter.AssemblyInfo.cs
+C:\repos\c-sharp_instruction\TemperatureConverter\TemperatureConverter\obj\Debug\netcoreapp3.0\TemperatureConverter.dll
+C:\repos\c-sharp_instruction\TemperatureConverter\TemperatureConverter\obj\Debug\netcoreapp3.0\TemperatureConverter.pdb
